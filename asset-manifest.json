@@ -1,0 +1,14 @@
+{
+  "main.css": "/booksearch/static/css/main.9c27546e.chunk.css",
+  "main.js": "/booksearch/static/js/main.4e3aeaf0.chunk.js",
+  "main.js.map": "/booksearch/static/js/main.4e3aeaf0.chunk.js.map",
+  "static/js/1.13eeb203.chunk.js": "/booksearch/static/js/1.13eeb203.chunk.js",
+  "static/js/1.13eeb203.chunk.js.map": "/booksearch/static/js/1.13eeb203.chunk.js.map",
+  "runtime~main.js": "/booksearch/static/js/runtime~main.880255d7.js",
+  "runtime~main.js.map": "/booksearch/static/js/runtime~main.880255d7.js.map",
+  "static/media/logo.svg": "/booksearch/static/media/logo.5d5d9eef.svg",
+  "static/css/main.9c27546e.chunk.css.map": "/booksearch/static/css/main.9c27546e.chunk.css.map",
+  "index.html": "/booksearch/index.html",
+  "precache-manifest.1b62c0db3a9eece823de9e725531b338.js": "/booksearch/precache-manifest.1b62c0db3a9eece823de9e725531b338.js",
+  "service-worker.js": "/booksearch/service-worker.js"
+}
